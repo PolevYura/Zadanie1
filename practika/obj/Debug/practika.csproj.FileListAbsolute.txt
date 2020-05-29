@@ -1,0 +1,6 @@
+D:\VS\pract\practika\practika\bin\Debug\practika.exe.config
+D:\VS\pract\practika\practika\bin\Debug\practika.exe
+D:\VS\pract\practika\practika\bin\Debug\practika.pdb
+D:\VS\pract\practika\practika\obj\Debug\practika.csprojAssemblyReference.cache
+D:\VS\pract\practika\practika\obj\Debug\practika.exe
+D:\VS\pract\practika\practika\obj\Debug\practika.pdb
